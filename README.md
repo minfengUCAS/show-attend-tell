@@ -12,23 +12,15 @@ Full text available at: https://arxiv.org/pdf/1502.03044.pdf
 
 # Contents
 
-[Model Overview](#1)
-
-[Introduction](#1.1)
-
-[Architecture](#1.2)
-
-[Getting Started](#2)
-
-[Install Required Packages](#2.1)
-
-[Prepare the Training Data](#2.2)
-
-[Download the VGG_19 Checkpoint](#2.3)
-
-[Training a Model](#3)
-
-[Generating Captions](#4)
+* [Model Overview](#1)
+  * [Introduction](#1.1)
+  * [Architecture](#1.2)
+* [Getting Started](#2)
+  * [Install Required Packages](#2.1)
+  * [Prepare the Training Data](#2.2)
+  * [Download the VGG_19 Checkpoint](#2.3)
+* [Training a Model](#3)
+* [Generating Captions](#4)
 
 <h2 id ='1'> Model Overview</h2>
 
