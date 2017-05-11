@@ -1,0 +1,2 @@
+bazel build show_tell_attend/ops/image_embedding_test
+bazel-bin/show_tell_attend/ops/image_embedding_test
