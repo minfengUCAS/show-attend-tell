@@ -13,18 +13,13 @@ Full text available at: https://arxiv.org/pdf/1502.03044.pdf
 # Contents
 
 * [Model Overview](#1)
-  * [Introduction](#1.1)
-  * [Architecture](#1.2)
 * [Getting Started](#2)
-  * [Install Required Packages](#2.1)
-  * [Prepare the Training Data](#2.2)
-  * [Download the VGG_19 Checkpoint](#2.3)
 * [Training a Model](#3)
 * [Generating Captions](#4)
 
 <h2 id ='1'> Model Overview</h2>
 
-<h3 id ="1.1">Introduction</h3>
+###Introduction
 
 The Show, attend and tell model is a deep neural network that learns how to describe the content of images. For example:
 ![image](https://github.com/minfengUCAS/show-attend-tell/blob/master/doc/example.png)
